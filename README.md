@@ -1,5 +1,3 @@
-# cloud_computing_project
-
 # Make setup script executable
 chmod +x setup.sh
 
